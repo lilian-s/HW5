@@ -13,5 +13,3 @@ for line in f:
 		for i in y:
 			sum += int(i)
 print (sum)
-
-#print (sum([y in re.findall('[0-9]+', 'regex_sum_31740.txt'.read())]))
